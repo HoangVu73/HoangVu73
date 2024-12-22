@@ -1,6 +1,6 @@
 ## 👋 Xin chào! Tôi là Hoang Vu
 
-Tôi là sinh viên năm 4 chuyên ngành **Công nghệ Thông tin** với niềm đam mê lập trình và phát triển phần mềm. Hiện tại, tôi đang học và thực hành **Java** cùng các công nghệ phát triển backend như **Spring Boot** và cơ sở dữ liệu **MySQL**, **PostgreSQL**.
+Tôi là sinh viên năm 4 chuyên ngành **Công nghệ Thông tin** với niềm đam mê lập trình và phát triển phần mềm. Hiện tại, tôi đang học và thực hành **Java** cùng các công nghệ phát triển backend như **Spring Boot** và cơ sở dữ liệu **MySQL**.
 
 Tôi có kinh nghiệm thực hiện các dự án phần mềm trong các lĩnh vực khác nhau, từ **ứng dụng Android** đến **website thương mại điện tử** và **hệ thống nhận diện biển số xe**. Mục tiêu của tôi là phát triển các ứng dụng phần mềm chất lượng và giải quyết các bài toán thực tế trong cộng đồng.
 
